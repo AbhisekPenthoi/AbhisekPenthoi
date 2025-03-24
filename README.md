@@ -49,6 +49,10 @@ I'm a passionate Full Stack Developer from Bhubaneswar, India, specializing in b
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekPenthoi&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPenthoi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ## Let's Connect 🤝
 
 <div align="left">
@@ -70,5 +74,5 @@ I'm a passionate Full Stack Developer from Bhubaneswar, India, specializing in b
 ---
 
 <div align="center">
-  <img src="https://github.com/AbhisekPenthoi/AbhisekPenthoi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
