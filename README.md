@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/yuaotian?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/yuaotian?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=yuaotian&label=Profile%20Views&color=2F80ED&style=flat" alt="Visit Counter" />
+  <img src="https://img.shields.io/github/followers/abhisekpenthoi?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/abhisekpenthoi?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=abhisekpenthoi&label=Profile%20Views&color=2F80ED&style=flat" alt="Visit Counter" />
 </div>
 
 <br/>
@@ -43,17 +43,17 @@ I'm a passionate Full Stack Developer from Bhubaneswar, India, specializing in b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhisekpenthoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekpenthoi&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ### 🐍 Contribution Graph
 
-![Contribution Graph](https://raw.githubusercontent.com/yuaotian/yuaotian/refs/heads/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://raw.githubusercontent.com/abhisekpenthoi/abhisekpenthoi/output/github-contribution-grid-snake.svg)
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuaotian&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisekpenthoi&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ### ⌛ Coding Time Stats
 
