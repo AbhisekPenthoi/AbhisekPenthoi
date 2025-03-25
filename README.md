@@ -55,9 +55,7 @@ I'm a passionate Full Stack Developer from Bhubaneswar, India, specializing in b
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisekpenthoi&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
-### ⌛ Coding Time Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuaotian&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days" width="100%" />
 
 ### 🤝 Connect With Me
 
