@@ -1,52 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=200&section=header&text=Abhisek%20Penthoii&fontSize=60&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=CS%20%26%20IT%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Developer&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<!-- Header Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhisek%20Penthoii&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20%26%20IT%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Developer&descAlignY=55&descSize=16" alt="Header" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&height=40&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Frontend+%26+Full-Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Enthusiast+%E2%98%95;Building+AI-Powered+Applications+%F0%9F%A4%96;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%9A%80" />
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Exploring+Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Insights+from+Real-World+Data;Frontend+Developer+%F0%9F%92%BB+%7C+Java+Enthusiast+%E2%98%95;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/AbhisekPenthoii?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/AbhisekPenthoii)
-![Profile Views](https://komarev.com/ghpvc/?username=AbhisekPenthoii&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)
-![Stars](https://img.shields.io/github/stars/AbhisekPenthoii?style=for-the-badge&color=F59E0B&logo=star)
-
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://github.com/AbhisekPenthoii">
+    <img src="https://img.shields.io/badge/GitHub-AbhisekPenthoii-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22C55E?style=for-the-badge" />
 </div>
+
+<br>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
+## About Me
 
 ```python
 class AbhisekPenthoii:
     def __init__(self):
-        self.name       = "Abhisek Penthoii"
-        self.role       = ["Aspiring Data Analyst", "Frontend Developer", "Java Enthusiast"]
-        self.education  = "Computer Science & Information Technology"
-        self.interests  = ["Data Analytics", "Web Development", "Java", "AI & ML"]
-        self.currently  = "Learning Data Analytics & Spring Boot"
-        self.goal       = "Build impactful, data-driven applications"
-        self.motto      = "Learning -> Building -> Analyzing -> Improving"
+        self.name        = "Abhisek Penthoii"
+        self.education   = "Computer Science & Information Technology"
+        self.main_focus  = "Data Analytics"               # PRIMARY
+        self.also_into   = ["Web Development", "Java", "AI Applications"]
+        self.tools       = ["Python", "SQL", "Power BI", "Excel", "Pandas"]
+        self.currently   = "Learning Data Analytics & Spring Boot"
+        self.building    = "Practical projects to strengthen core skills"
+        self.motto       = "Learning -> Building -> Analyzing -> Improving"
 ```
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-- **CS & IT Student** passionate about tech
-- Diving deep into **Data Analytics & Visualization**
-- Building **Responsive Web Apps** with React
-- Strengthening **Java & Spring Boot** skills
-- Interested in **AI-powered applications**
-- Always learning, always building
+**Who I am:**
+- 🎓 CS & IT student passionate about tech
+- 📊 **Primarily focused on Data Analytics**
+- 📈 Learning to extract insights from real-world data
+- 💻 Building responsive web apps on the side
+- ☕ Strengthening Java & Spring Boot fundamentals
+- 🤖 Interested in AI-powered applications
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ```text
-Ask me about  ->  Java, Web Dev, Data
-Working on    ->  Data Projects & AI Tools
-Learning      ->  Analytics, Spring Boot
-Fun fact      ->  I debug with coffee
+💬 Ask me about  → Data Analytics, SQL, Python
+🔭 Working on    → Data Projects & Analysis
+📚 Learning      → Pandas, Power BI, Spring Boot
+⚡ Fun fact      → I debug everything with coffee
 ```
 
 </td>
@@ -55,44 +68,82 @@ Fun fact      ->  I debug with coffee
 
 ---
 
-## Current Focus
+## Primary Focus — Data Analytics
 
 <div align="center">
 
-| Data Analytics | Web Development | Java Development |
-|:---:|:---:|:---:|
-| Cleaning, exploration & visualization | Responsive, modern UIs | Java, Spring Boot & backend |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+> *Turning raw data into meaningful insights through cleaning, exploration, and visualization.*
 
 </div>
 
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**Data Cleaning & EDA**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Cleaning messy datasets, handling missing values, and exploring patterns.
+
+</td>
+<td width="33%" align="center">
+
+**SQL & Databases**
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+Writing queries, aggregating data, and managing databases.
+
+</td>
+<td width="33%" align="center">
+
+**Visualization & Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+
+Creating dashboards, charts and visual reports.
+
+</td>
+</tr>
+</table>
+
 ---
 
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+
+<br><br>
 
 **Data & Analytics**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Frontend**
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,js,bootstrap" />
+**Web & Backend**
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=react,bootstrap,spring,nodejs,mysql,mongodb" />
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb" />
+<br><br>
 
-**Tools & DevOps**
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
@@ -104,12 +155,14 @@ Fun fact      ->  I debug with coffee
 
 <div align="center">
 
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-Actively_Learning-2563EB?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Actively_Learning-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Actively_Learning-3776AB?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge)
+| Skill | Category | Status |
+|:---:|:---:|:---:|
+| Python for Data Analysis | Data Analytics | 🟡 In Progress |
+| SQL & Query Optimization | Data Analytics | 🟡 In Progress |
+| Power BI Dashboards | Data Analytics | 🟡 In Progress |
+| Excel (Advanced) | Data Analytics | 🟡 In Progress |
+| React.js | Web Development | 🟡 In Progress |
+| Spring Boot | Java / Backend | 🔵 Exploring |
 
 </div>
 
@@ -117,48 +170,17 @@ Fun fact      ->  I debug with coffee
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> Currently building real-world projects as I learn. More coming soon!
 
-### Data Analytics Projects
-> Cleaning datasets, exploring trends, extracting insights & creating powerful visualizations.
+<div align="center">
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Data%20Analysis-3B82F6?style=flat-square)
+| Project | Domain | Description | Status |
+|:---:|:---:|:---|:---:|
+| Data Analysis Projects | Data Analytics | Cleaning & exploring real datasets, drawing insights with Python & SQL | 🔨 Building |
+| AI Resume Analyzer | AI / Web | Resume analysis with ATS-style feedback and job matching | ✅ Built |
+| Web Dev Projects | Frontend | Responsive websites and UI projects built while learning React | 🔨 Building |
 
-</td>
-<td width="50%" valign="top">
-
-### AI Resume Analyzer
-> AI-powered app for resume analysis, ATS-style insights, and intelligent job matching.
-
-![Status](https://img.shields.io/badge/Status-Built-22C55E?style=flat-square)
-![Type](https://img.shields.io/badge/Type-AI%20Application-8B5CF6?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Web Development Projects
-> Responsive frontend & full-stack applications built with modern web technologies.
-
-![Status](https://img.shields.io/badge/Status-Ongoing-F59E0B?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Full%20Stack-EC4899?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### More Coming Soon...
-> Currently building more projects around **Data Analytics, Java, and AI**.
-
-![Status](https://img.shields.io/badge/Status-Cooking-F59E0B?style=flat-square)
-![Stay](https://img.shields.io/badge/Stay-Tuned-3B82F6?style=flat-square)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -166,15 +188,13 @@ Fun fact      ->  I debug with coffee
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhisekPenthoii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPenthoii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhisekPenthoii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPenthoii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AbhisekPenthoii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=AbhisekPenthoii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -182,7 +202,7 @@ Fun fact      ->  I debug with coffee
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 ---
@@ -191,16 +211,19 @@ Fun fact      ->  I debug with coffee
 
 <div align="center">
 
-I am always open to collaborating on interesting **Data, Web Dev, or AI projects**!
+I am always open to collaborating on **Data Analytics, Web Dev, or AI projects!**
 
 <a href="https://github.com/AbhisekPenthoii">
-  <img src="https://img.shields.io/badge/GitHub-AbhisekPenthoii-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-> *"The best way to learn is to build things that matter."*
+*"Data is the new oil — and I am learning to refine it."* 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:3B82F6&height=120&section=footer&animation=fadeIn" />
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+</div>
