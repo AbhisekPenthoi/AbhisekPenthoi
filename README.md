@@ -1,78 +1,101 @@
-<!-- Header Banner -->
+<!-- ══════════════ HEADER ══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhisek%20Penthoii&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20%26%20IT%20Student%20%7C%20Aspiring%20Data%20Analyst%20%7C%20Developer&descAlignY=55&descSize=16" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,30:203A43,60:2C5364,100:1a1a2e&height=220&section=header&text=Abhisek%20Penthoii&fontSize=62&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=%F0%9F%93%8A%20Data%20Analyst%20in%20the%20Making%20%7C%20%F0%9F%92%BB%20Developer%20%7C%20%E2%98%95%20Java%20Enthusiast&descSize=17&descAlignY=58&descColor=8b949e" />
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;Exploring+Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Insights+from+Real-World+Data;Frontend+Developer+%F0%9F%92%BB+%7C+Java+Enthusiast+%E2%98%95;Learning+%E2%86%92+Building+%E2%86%92+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- Social Badges -->
+<!-- ══════════════ TYPING ══════════════ -->
 <div align="center">
   <a href="https://github.com/AbhisekPenthoii">
-    <img src="https://img.shields.io/badge/GitHub-AbhisekPenthoii-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=600&height=35&lines=%F0%9F%93%8A+Transforming+raw+data+into+real+insights;%F0%9F%90%8D+Python+%7C+SQL+%7C+Pandas+%7C+Power+BI+%7C+Excel;%F0%9F%92%BB+Building+responsive+web+applications;%E2%98%95+Java+%26+Spring+Boot+learner;%F0%9F%9A%80+Learning+%E2%86%92+Building+%E2%86%92+Improving" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22C55E?style=for-the-badge" />
 </div>
+
+<br>
+
+<!-- ══════════════ BADGES ══════════════ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20Main%20Focus-Data%20Analytics-1e40af?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93%20Student-CS%20%26%20IT-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Status-Learning%20%26%20Building-15803d?style=for-the-badge" />
+</div>
+
+<br>
+
+<!-- ══════════════ DIVIDER ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2" />
 
 <br>
 
 ---
 
-## About Me
+## `>>> who_am_i()`
 
 ```python
-class AbhisekPenthoii:
-    def __init__(self):
-        self.name        = "Abhisek Penthoii"
-        self.education   = "Computer Science & Information Technology"
-        self.main_focus  = "Data Analytics"               # PRIMARY
-        self.also_into   = ["Web Development", "Java", "AI Applications"]
-        self.tools       = ["Python", "SQL", "Power BI", "Excel", "Pandas"]
-        self.currently   = "Learning Data Analytics & Spring Boot"
-        self.building    = "Practical projects to strengthen core skills"
-        self.motto       = "Learning -> Building -> Analyzing -> Improving"
+{
+    "name"       : "Abhisek Penthoii",
+    "degree"     : "Computer Science & Information Technology",
+    "main"       : "Data Analytics",                        # << PRIMARY FOCUS
+    "side"       : ["Web Development", "Java", "AI Tools"],
+    "toolkit"    : ["Python", "SQL", "Pandas", "Power BI", "Excel"],
+    "learning"   : "Cleaning → Exploring → Visualizing → Insighting",
+    "goal"       : "Build data-driven projects that solve real problems",
+    "motto"      : "In God we trust. All others must bring data."
+}
 ```
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**Who I am:**
-- 🎓 CS & IT student passionate about tech
-- 📊 **Primarily focused on Data Analytics**
-- 📈 Learning to extract insights from real-world data
-- 💻 Building responsive web apps on the side
-- ☕ Strengthening Java & Spring Boot fundamentals
-- 🤖 Interested in AI-powered applications
+**`// about_me.txt`**
+
+```
+🎓  CS & IT Student — passionate about tech
+📊  Primary: Data Analytics & Visualization
+🐍  Loves Python for data wrangling
+🗄️  Writing SQL queries to find hidden patterns
+📈  Building dashboards in Power BI & Excel
+💻  Side: Responsive web apps with React
+☕  Also sharpening Java & Spring Boot
+🤖  Interested in AI-powered tools
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-```text
-💬 Ask me about  → Data Analytics, SQL, Python
-🔭 Working on    → Data Projects & Analysis
-📚 Learning      → Pandas, Power BI, Spring Boot
-⚡ Fun fact      → I debug everything with coffee
+**`// interests.json`**
+
+```json
+{
+  "data"   : ["cleaning", "EDA",
+               "visualization"],
+  "tools"  : ["Python", "SQL",
+               "Power BI", "Excel"],
+  "web"    : ["React", "HTML", "CSS"],
+  "java"   : ["Spring Boot", "MySQL"],
+  "goal"   : "insights + impact"
+}
 ```
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## Primary Focus — Data Analytics
+## `>>> my_data_journey()`
 
 <div align="center">
 
-> *Turning raw data into meaningful insights through cleaning, exploration, and visualization.*
+```
+RAW DATA  ──►  CLEAN DATA  ──►  EXPLORE  ──►  VISUALIZE  ──►  INSIGHTS
+   📥              🧹             🔍             📊              💡
+[Collect]       [Pandas]       [EDA &         [Power BI      [Decisions
+[Import]        [Excel]        [SQL]           Matplotlib]    & Stories]
+[SQL]           [NumPy]        [Stats]         [Seaborn]
+```
 
 </div>
 
@@ -80,150 +103,218 @@ class AbhisekPenthoii:
 <tr>
 <td width="33%" align="center">
 
-**Data Cleaning & EDA**
+**Phase 1 — Collect & Clean**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Cleaning messy datasets, handling missing values, and exploring patterns.
-
-</td>
-<td width="33%" align="center">
-
-**SQL & Databases**
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-Writing queries, aggregating data, and managing databases.
+```
+✅  Import CSV / Excel / SQL
+✅  Handle missing values
+✅  Clean messy data
+✅  Normalize & transform
+```
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </td>
 <td width="33%" align="center">
 
-**Visualization & Reporting**
+**Phase 2 — Explore & Query**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+```
+✅  Exploratory Data Analysis
+✅  SQL joins & aggregations
+✅  Find trends & patterns
+🔄  Statistical insights
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Creating dashboards, charts and visual reports.
+</td>
+<td width="33%" align="center">
+
+**Phase 3 — Visualize & Report**
+
+```
+🔄  Build charts & graphs
+🔄  Power BI dashboards
+🔄  Matplotlib / Seaborn
+🔄  Storytelling with data
+```
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## Tech Stack
+## `>>> skills.show_all()`
 
 <div align="center">
 
-**Languages**
+**`── Data & Analytics ─────────────────────────────────`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+**`── Languages ──────────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 
 <br><br>
 
-**Data & Analytics**
+**`── Web & Backend ──────────────────────────────────`**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<br>
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,spring,nodejs,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,spring,nodejs,mongodb" />
 
 <br><br>
 
-**Tools**
+**`── Dev Tools ──────────────────────────────────────`**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </div>
 
+<br>
+
 ---
 
-## Currently Learning
+## `>>> currently_learning()`
 
 <div align="center">
 
-| Skill | Category | Status |
+| Skill | Track | Progress |
 |:---:|:---:|:---:|
-| Python for Data Analysis | Data Analytics | 🟡 In Progress |
-| SQL & Query Optimization | Data Analytics | 🟡 In Progress |
-| Power BI Dashboards | Data Analytics | 🟡 In Progress |
-| Excel (Advanced) | Data Analytics | 🟡 In Progress |
-| React.js | Web Development | 🟡 In Progress |
-| Spring Boot | Java / Backend | 🔵 Exploring |
+| 🐍 Python for Data Analysis | **Data Analytics** | `█████████░` 90% |
+| 🗄️ SQL & Query Writing | **Data Analytics** | `████████░░` 80% |
+| 📊 Power BI | **Data Analytics** | `██████░░░░` 60% |
+| 📋 Advanced Excel | **Data Analytics** | `███████░░░` 70% |
+| 📈 Data Visualization | **Data Analytics** | `███████░░░` 70% |
+| ⚛️ React.js | Web Development | `█████░░░░░` 50% |
+| 🌱 Spring Boot | Java / Backend | `████░░░░░░` 40% |
 
 </div>
+
+<br>
 
 ---
 
-## Projects
-
-> Currently building real-world projects as I learn. More coming soon!
+## `>>> projects.list()`
 
 <div align="center">
 
-| Project | Domain | Description | Status |
-|:---:|:---:|:---|:---:|
-| Data Analysis Projects | Data Analytics | Cleaning & exploring real datasets, drawing insights with Python & SQL | 🔨 Building |
-| AI Resume Analyzer | AI / Web | Resume analysis with ATS-style feedback and job matching | ✅ Built |
-| Web Dev Projects | Frontend | Responsive websites and UI projects built while learning React | 🔨 Building |
+> ⚙️ *Actively building projects as skills grow. Below is what I am working on.*
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analysis Practice Projects
+
+> Cleaning and exploring real datasets using Python and SQL.
+> Finding patterns and visualizing insights.
+
+```
+Stack  →  Python  •  Pandas  •  SQL
+Output →  EDA notebooks, Charts
+Status →  🔨 Actively Building
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Analyzer
+
+> AI-powered resume analysis with ATS-style feedback
+> and job relevance matching.
+
+```
+Stack  →  Python  •  AI/NLP
+Output →  Resume scoring & tips
+Status →  ✅ Built
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Web Development Projects
+
+> Responsive websites and UI projects built while
+> learning HTML, CSS, JavaScript and React.
+
+```
+Stack  →  HTML  •  CSS  •  JS  •  React
+Output →  Responsive web pages
+Status →  🔨 Building
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More Projects In Pipeline
+
+> Building more projects around Data Analytics,
+> Java and AI as learning progresses.
+
+```
+Focus  →  Data  •  Java  •  AI Tools
+Output →  Real-world solutions
+Status →  📋 Planning
+```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## GitHub Stats
+## `>>> contribution_map()`
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbhisekPenthoii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPenthoii&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbhisekPenthoii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<br>
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
-
-## Let's Connect
+## `>>> connect()`
 
 <div align="center">
 
-I am always open to collaborating on **Data Analytics, Web Dev, or AI projects!**
+*I am always open to collaborating on Data, Web Dev, or AI projects!*
 
 <a href="https://github.com/AbhisekPenthoii">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-AbhisekPenthoii-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-*"Data is the new oil — and I am learning to refine it."* 🚀
+```
+"In God we trust. All others must bring data." — W. Edwards Deming
+```
 
 </div>
 
-<!-- Footer Banner -->
+<!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:2C5364,60:203A43,100:0F2027&height=130&section=footer&text=Building%20skills%20one%20project%20at%20a%20time%20%F0%9F%9A%80&fontSize=16&fontColor=58A6FF&fontAlignY=70" />
 </div>
