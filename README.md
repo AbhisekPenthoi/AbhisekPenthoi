@@ -173,15 +173,29 @@ Currently learning and building more projects around Data Analytics, Web Develop
 
 ---
 
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPenthoii&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPenthoii&layout=compact&theme=transparent&hide_border=true" width="42%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AbhisekPenthoii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPenthoii&layout=compact&theme=tokyonight&hide_border=true"
+    width="42%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbhisekPenthoii&theme=transparent&hide_border=true" width="60%" />
+  <img
+    src="https://streak-stats.demolab.com?user=AbhisekPenthoii&theme=tokyonight&hide_border=true"
+    width="60%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
